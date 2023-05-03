@@ -1,46 +1,44 @@
-{
-    "chefs": [
-        {
-            "id": "chef001",
-            "name": "Tony Khan",
-            "picture": "https://example.com/chef001.jpg",
-            "year_of_experience": 15,
-            "likes": 5000
-        },
-        {
-            "id": "chef002",
-            "name": "Tommy Miah",
-            "picture": "https://example.com/chef002.jpg",
-            "year_of_experience": 25,
-            "likes": 10000
-        },
-        {
-            "id": "chef003",
-            "name": "Nayana Afroz",
-            "picture": "https://example.com/chef003.jpg",
-            "year_of_experience": 10,
-            "likes": 2000
-        },
-        {
-            "id": "chef004",
-            "name": "Shahin Alam",
-            "picture": "https://example.com/chef004.jpg",
-            "year_of_experience": 12,
-            "likes": 3500
-        },
-        {
-            "id": "chef005",
-            "name": "Mahbub Alam",
-            "picture": "https://example.com/chef005.jpg",
-            "year_of_experience": 8,
-            "likes": 1500
-        },
-        {
-            "id": "chef006",
-            "name": "Mohammad Ali",
-            "picture": "https://example.com/chef006.jpg",
-            "year_of_experience": 20,
-            "likes": 8000
-        }
-    ]
-}
+[
+    {
+        "id": "chef001",
+        "name": "Tony Khan",
+        "picture": "https://example.com/chef001.jpg",
+        "year_of_experience": 15,
+        "likes": 5000
+    },
+    {
+        "id": "chef002",
+        "name": "Tommy Miah",
+        "picture": "https://example.com/chef002.jpg",
+        "year_of_experience": 25,
+        "likes": 10000
+    },
+    {
+        "id": "chef003",
+        "name": "Nayana Afroz",
+        "picture": "https://example.com/chef003.jpg",
+        "year_of_experience": 10,
+        "likes": 2000
+    },
+    {
+        "id": "chef004",
+        "name": "Shahin Alam",
+        "picture": "https://example.com/chef004.jpg",
+        "year_of_experience": 12,
+        "likes": 3500
+    },
+    {
+        "id": "chef005",
+        "name": "Mahbub Alam",
+        "picture": "https://example.com/chef005.jpg",
+        "year_of_experience": 8,
+        "likes": 1500
+    },
+    {
+        "id": "chef006",
+        "name": "Mohammad Ali",
+        "picture": "https://example.com/chef006.jpg",
+        "year_of_experience": 20,
+        "likes": 8000
+    }
+]
